@@ -1,7 +1,8 @@
 # Memory-Management
 
 Memory management project for OS course in this project we use URL, second chance, and FIFO algorithms to handle the memory management task we use normal and circular queue to do so and we have a client and server to perform the demanding process.
-This program works with the client and server. you can change the port and put yours
+<br>
+This program works with the client and server, you can change the port and put yours
 
 
 # Scheduling Algorithm
